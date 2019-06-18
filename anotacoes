@@ -1,0 +1,3 @@
+npm start = executa o webpack
+
+npm start ; node dist/main.js - o ; ponto e virgula esta concatenando outro comando

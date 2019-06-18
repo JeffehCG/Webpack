@@ -1,0 +1,7 @@
+body {
+    background-color: purple;
+    background-image: url(../imgs/logo.png); /*Referenciando imagem no css*/
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
